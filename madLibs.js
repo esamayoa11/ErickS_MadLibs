@@ -1,7 +1,7 @@
 console.log("JavaScript is connected!");
 
 const timeOfNight = "stormy night";
-const location = "haunted house";
+const place = "haunted house";
 const ghostType = "giant cat";
 const objectSound = "creaking walls";
 const emotion = "chills";
@@ -17,7 +17,7 @@ const ghost = {
 };
 
 const story = `
-On a ${timeOfNight}, I ventured into the ${location}.
+On a ${timeOfNight}, I ventured into the ${place}.
 The ${objectSound} seemed to whisper, sending ${emotion} down my spine.
 Suddenly, a ${ghostType} named ${ghost.name} appeared, its ${ghost.eyeColor} eyes piercing through the darkness.
 My heart raced as it floated silently toward me. 
