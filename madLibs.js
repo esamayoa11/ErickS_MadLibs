@@ -1,3 +1,5 @@
+console.log("JavaScript is connected!");
+
 const timeOfNight = "stormy night";
 const location = "haunted house";
 const ghostType = "giant cat";
@@ -25,6 +27,6 @@ Did you know 10 - 7 equals ${mathResult}? Spooky, right?
 Was it night time? ${isNightTime ? "Yes" : "No"}.
 `;
 
-document.getElementById("madlibs-output").textContent = story;
+document.getElementById("madLibs-output").textContent = story;
 
 console.log(story);
